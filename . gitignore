@@ -1,1 +1,27 @@
-h
+# Build folder
+.gradle/
+/build/
+/app/build/
+.externalNativeBuild/
+.cxx/
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/migrations.xml
+*.iml
+*.iws
+*.ipr
+*.class
+*.jar
+*.ap_
+*.apk
+*.aab
+# User specific files
+*.log
+captures/
+.DS_Store
+# Kotlin
+*.kpt
